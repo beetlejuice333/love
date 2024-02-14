@@ -4,13 +4,13 @@ document.getElementById("envelope").addEventListener("click", function () {
 
   // Пути к изображениям сердечек
   const heartImages = [
-    "/images/heart3.jpg",
-    "/images/heart4.png",
-    "/images/heart5.png",
-    "/images/heart6.png",
-    "/images/heart7.png",
-    "/images/heart8.jpg",
-    "/images/heart9.jpg",
+    "./images/heart3.jpg",
+    "./images/heart4.png",
+    "./images/heart5.png",
+    "./images/heart6.png",
+    "./images/heart7.png",
+    "./images/heart8.jpg",
+    "./images/heart9.jpg",
     // Добавьте пути к вашим изображениям сердечек
   ];
 
